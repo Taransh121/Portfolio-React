@@ -1,9 +1,11 @@
 
-import p1 from "../assets/projects/p1.png";
+// import p1 from "../assets/projects/p1.png";
 import p2 from "../assets/projects/p2.jpeg";
 import p3 from "../assets/projects/p3.jpeg";
 import p4 from "../assets/projects/tkart.png";
 import p5 from "../assets/projects/hashgram4.avif";
+import p7 from "../assets/projects/p7.avif";
+import p8 from "../assets/projects/p8.webp";
 
 export const data = [
     {
@@ -31,10 +33,16 @@ export const data = [
         github: "https://github.com/Taransh121/NEWSAPP",
     },
     {
-        id: 4,
+        id: 5,
+        name: "Backend API Application",
+        image: p8,
+        github: "https://github.com/Taransh121/railway-management-system-main",
+    },
+    {
+        id: 6,
         name: "Full Stack Application",
-        image: p1,
-        github: "https://github.com/Taransh121/inotebook",
+        image: p7,
+        github: "https://real-estate-bokm.onrender.com/",
     },
 
 
