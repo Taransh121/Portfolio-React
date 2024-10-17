@@ -14,7 +14,7 @@ const About = () => {
         </div>
         <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
           <div className='sm:text-right text-4xl font-bold'>
-            <p>Hi. I'm Taransh Chellani, a 3rd year BTech Student at VIT Bhopal University.</p>
+            <p>Hi. I'm Taransh Chellani, a 4th year BTech Student at VIT Bhopal University.</p>
           </div>
           <div>
             <p>I am Highly skilled and motivated software developer with a proven track record of designing and implementing innovative solutions to complex problems.
